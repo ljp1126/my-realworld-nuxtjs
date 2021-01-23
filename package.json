@@ -1,15 +1,16 @@
 {
-  "name": "realworld-nuxtjs",
+  "name": "my-realworld-nuxtjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
   "keywords": [],
-  "author": "",
+  "author": "lijiapeng",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
